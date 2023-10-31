@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9f/Oc6J088jK2VFf0F3FkACbezF3UOld7GIp7Vs7nzrjvQgV3wzAScyDy6sPkDksjGbDRtFsaPJtKWBPfhixQ==",
+  "success": true,
+  "projectFilePath": "D:\\Gastón\\UTN\\Laboratorio II\\EI2_LABO2_21112023\\Gómez.Gastón.2C.TPFinal\\FrmView\\FrmView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
